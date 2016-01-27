@@ -1,0 +1,9 @@
+{
+  "firebase": "js-music-player",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
